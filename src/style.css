@@ -1,0 +1,9 @@
+/* Tailwind imports - will be auto-added by PostCSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles */
+body {
+  font-family: 'Inter', sans-serif;
+}
