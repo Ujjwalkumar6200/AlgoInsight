@@ -31,17 +31,18 @@ const Header = () => {
             >
               <FaLinkedin size={24} />
             </a>
-            <a 
-              href="https://twitter.com/yourhandle" 
+              <a 
+              href="https://ujjwal-portfolio-steel.vercel.app/?#" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-blue-200 transition-colors"
-              aria-label="Twitter"
+              aria-label="Portfolio"
             >
-              <FaTwitter size={24} />
+              <FaBriefcase size={24} />
             </a>
+            
             <a 
-              href="https://instagram.com/yourhandle" 
+              href="https://instagram.com/ujjwalsingh.09" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-blue-200 transition-colors"
