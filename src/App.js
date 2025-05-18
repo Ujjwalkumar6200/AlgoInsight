@@ -145,7 +145,7 @@ function App() {
         <div className="max-w-5xl mx-auto bg-white rounded-3xl shadow-xl overflow-hidden">
           {/* Title */}
           <div className="p-6 bg-gradient-to-r from-blue-600 to-indigo-500 text-white text-center rounded-t-3xl">
-            <h1 className="text-3xl md:text-4xl font-extrabold tracking-wide">🗿 AlgoInsight 🗿</h1>
+            <h1 className="text-3xl md:text-4xl font-extrabold tracking-wide">🧠 AlgoInsight  </h1>
           </div>
 
           {/* Pattern Buttons */}
