@@ -91,19 +91,19 @@ yarn start
 Open http://localhost:3000 in your browser to use the app.
 
 ## 📁 Folder Structure
-
+```
 AlgoInsight/
 ├── public/
 │   └── index.html
 ├── src/
-│   ├── components/        # Reusable UI components
-│   ├── patterns/          # Algorithm implementations
+│   ├── components/        
+│   ├── patterns/         
 │   ├── App.js
 │   └── index.js
-├── screenshots/           # Add demo screenshots here
+├── screenshots/           
 ├── tailwind.config.js
 └── package.json
-
+```
 
 ## 🤝 Contribution
 Pull requests and stars are welcome! For major changes, open an issue first to discuss what you'd like to change.
